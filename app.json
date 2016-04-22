@@ -1,0 +1,12 @@
+{
+  "name": "github-bot",
+  "description": "My heart and soul for Bunto.",
+  "keywords": [
+    "bot",
+    "buntobot",
+    "bunto"
+  ],
+  "website": "https://github.com/buntobot",
+  "repository": "https://github.com/buntobot/github-bot",
+  "logo": "https://raw.githubusercontent.com/buntobot/github-bot/master/buntobot.png"
+}
