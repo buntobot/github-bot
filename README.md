@@ -1,4 +1,4 @@
-# Node.js GitHub Bot
+# Node.js GitHub Bot for Bunto
 
 The Node.js Foundation's uses this bot to help manage [the repositories of the GitHub organization](https://github.com/nodejs). 
 It executes [scripts](https://github.com/nodejs-github-bot/github-bot/tree/master/scripts) in response to events that are 
