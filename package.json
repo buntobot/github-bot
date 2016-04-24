@@ -19,7 +19,8 @@
     "express": "^4.13.4",
     "github": "^0.2.4",
     "glob": "^7.0.3",
-    "travis-ci": "^2.1.0"
+    "travis-ci": "^2.1.0",
+    "lodash": "^4.0.0"
   },
   "devDependencies": {
     "eventsource": "^0.2.1",
