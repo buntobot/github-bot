@@ -1,4 +1,7 @@
 sudo: false
+os:
+  - linux # Test the basics!
+  - osx # The FSEvents (npm) module works only on Mac OS X!
 language: node_js
 node_js:
   - 4
